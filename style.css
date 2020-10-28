@@ -1,9 +1,24 @@
-.row{
-    margin-top: 1rem;
-    background: #dbdfe5;
-}
+/*
 .col{
     padding: 10px 15px;
     background: #abb1b8;
     border: 1px solid rgba(0,0,0,0.5)
+  }
+    .row{
+    margin-top: 1rem;
+    background: #dbdfe5;
+  }
+*/
+
+body{
+    font-family: Helvetica, arial;
+    color: black;
+}
+
+a{
+  color: inherit;
+}
+
+a:hover{
+  color: grey;
 }
