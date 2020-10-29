@@ -21,4 +21,5 @@ a{
 
 a:hover{
   color: grey;
+  text-decoration-line: none;
 }
