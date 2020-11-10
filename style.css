@@ -23,3 +23,32 @@ a:hover{
   color: grey;
   text-decoration-line: none;
 }
+
+img:hover{
+  width: 275px;
+  height: 275px;
+}
+
+.slide_images:hover{
+  width: auto;
+  height: auto;
+}
+
+.img-responsive:hover{
+  width: auto;
+  height: auto;
+}
+
+.product_view .modal-dialog{max-width: 800px; width: 100%;}
+.space-ten{padding: 10px 0;}
+.login .modal-dialog{max-width: 600px; width: 100%;}
+
+.cart-item:hover{
+  width: auto;
+  height: auto;
+}
+
+.cart-text{
+  font-size: 42px;
+  margin-left: -400px;
+}
